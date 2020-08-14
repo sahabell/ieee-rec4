@@ -1,2 +1,2 @@
 # ieee-rec4
-Git introduction workshop
+~Git introduction workshop
